@@ -1,4 +1,1 @@
-[
- {id:"1", position: 'Frontend Engineer', tags: ['React'], team: 'Engineering', location: 'Remote', contentUrl: 'https://github.com/munditrade/hr-docs/blob/master/README.md'},
- {id:"2", position: 'Backend Engineer', tags: ['React'], team: 'Engineering', location: 'Remote', contentUrl: 'https://github.com/munditrade/hr-docs/blob/master/README.md'}    
-]
+[{id:"1", position: 'Frontend Engineer', tags: ['React'], team: 'Engineering', location: 'Remote', contentUrl: 'https://github.com/munditrade/hr-docs/blob/master/README.md'},{id:"2", position: 'Backend Engineer', tags: ['React'], team: 'Engineering', location: 'Remote', contentUrl: 'https://github.com/munditrade/hr-docs/blob/master/README.md'}]
