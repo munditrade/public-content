@@ -1,0 +1,47 @@
+[{
+		"id": "1",
+		"location": "Remote",
+		"position": "SR Fullstack Engineer",
+		"tags": [
+			"React",
+			"Node.js",
+			"Docker"
+		],
+		"team": "Engineering",
+		"contentUrl": "https://github.com/munditrade/public-content/es/SRFullstackEngineer.md"
+	},
+	{
+		"id": "2",
+		"location": "Remote",
+		"position": "SSR Frontend Engineer",
+		"tags": [
+			"React"
+		],
+		"team": "Engineering",
+		"contentUrl": "https://github.com/munditrade/public-content/es/SSRFrontendEngineer.md"
+	},
+	{
+		"id": "3",
+		"location": "Remote",
+		"position": "SR Backend Data Engineer",
+		"tags": [
+			"Python",
+			"Graphql/Apollo",
+			"Docker"
+		],
+		"team": "Engineering",
+		"contentUrl": "https://github.com/munditrade/public-content/es/SRBackendDataEngineer.md"
+	},
+	{
+		"id": "4",
+		"location": "Remote",
+		"position": "SSR Backend Data Engineer",
+		"tags": [
+			"Python",
+			"Graphql/Apollo",
+			"Docker"
+		],
+		"team": "Engineering",
+		"contentUrl": "https://github.com/munditrade/public-content/es/SSRBackendDataEngineer.md"
+	}
+]
