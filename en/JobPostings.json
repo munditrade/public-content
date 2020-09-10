@@ -2,6 +2,21 @@
 		"id": "0",
 		"location": "Remote",
 		"position": "SR Fullstack Engineer",
+		"datePosted": "09/10/2020",
+		"validThrough": "12/01/2020",
+		"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+		"baseSalary": {
+			"currency": "USD",
+			"value": 38400,
+			"unitText": "YEAR"
+		},
+		"jobLocation": {
+			"addressCountry": "United States",
+			"addressRegion": "New York",
+			"addressLocality": "New York",
+			"postalCode": "10010",
+			"streetAddress": "19 West 24th Street, 10th Floor"
+		},
 		"tags": [
 			"React",
 			"Node.js",
@@ -14,6 +29,21 @@
 		"id": "1",
 		"location": "Remote",
 		"position": "SSR Frontend Engineer",
+		"datePosted": "09/10/2020",
+		"validThrough": "12/01/2020",
+		"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+		"baseSalary": {
+			"currency": "USD",
+			"value": 38400,
+			"unitText": "YEAR"
+		},
+		"jobLocation": {
+			"addressCountry": "United States",
+			"addressRegion": "New York",
+			"addressLocality": "New York",
+			"postalCode": "10010",
+			"streetAddress": "19 West 24th Street, 10th Floor"
+		},
 		"tags": [
 			"React"
 		],
@@ -24,6 +54,21 @@
 		"id": "2",
 		"location": "Remote",
 		"position": "SR Backend Data Engineer",
+		"datePosted": "09/10/2020",
+		"validThrough": "12/01/2020",
+		"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+		"baseSalary": {
+			"currency": "USD",
+			"value": 38400,
+			"unitText": "YEAR"
+		},
+		"jobLocation": {
+			"addressCountry": "United States",
+			"addressRegion": "New York",
+			"addressLocality": "New York",
+			"postalCode": "10010",
+			"streetAddress": "19 West 24th Street, 10th Floor"
+		},
 		"tags": [
 			"Python",
 			"Graphql/Apollo",
@@ -36,6 +81,21 @@
 		"id": "3",
 		"location": "Remote",
 		"position": "SSR Backend Data Engineer",
+		"datePosted": "09/10/2020",
+		"validThrough": "12/01/2020",
+		"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+		"baseSalary": {
+			"currency": "USD",
+			"value": 38400,
+			"unitText": "YEAR"
+		},
+		"jobLocation": {
+			"addressCountry": "United States",
+			"addressRegion": "New York",
+			"addressLocality": "New York",
+			"postalCode": "10010",
+			"streetAddress": "19 West 24th Street, 10th Floor"
+		},
 		"tags": [
 			"Python",
 			"Graphql/Apollo",
