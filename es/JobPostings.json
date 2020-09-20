@@ -1,47 +1,29 @@
 [{
-		"id": "1",
+		"id": "0",
 		"location": "Remote",
-		"position": "SR Fullstack Engineer",
+		"position": "SR Backend Engineer",
+		"datePosted": "09/10/2020",
+		"validThrough": "12/01/2020",
+		"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+		"baseSalary": {
+			"currency": "USD",
+			"value": 38400,
+			"unitText": "YEAR"
+		},
+		"jobLocation": {
+			"addressCountry": "United States",
+			"addressRegion": "New York",
+			"addressLocality": "New York",
+			"postalCode": "10010",
+			"streetAddress": "19 West 24th Street, 10th Floor"
+		},
 		"tags": [
-			"React",
-			"Node.js",
-			"Docker"
-		],
-		"team": "Engineering",
-		"contentUrl": "https://github.com/munditrade/public-content/es/SRFullstackEngineer.md"
-	},
-	{
-		"id": "2",
-		"location": "Remote",
-		"position": "SSR Frontend Engineer",
-		"tags": [
-			"React"
-		],
-		"team": "Engineering",
-		"contentUrl": "https://github.com/munditrade/public-content/es/SSRFrontendEngineer.md"
-	},
-	{
-		"id": "3",
-		"location": "Remote",
-		"position": "SR Backend Data Engineer",
-		"tags": [
+			"TypeScript",
 			"Python",
-			"Graphql/Apollo",
+			"GraphQL",
 			"Docker"
 		],
 		"team": "Engineering",
-		"contentUrl": "https://github.com/munditrade/public-content/es/SRBackendDataEngineer.md"
-	},
-	{
-		"id": "4",
-		"location": "Remote",
-		"position": "SSR Backend Data Engineer",
-		"tags": [
-			"Python",
-			"Graphql/Apollo",
-			"Docker"
-		],
-		"team": "Engineering",
-		"contentUrl": "https://github.com/munditrade/public-content/es/SSRBackendDataEngineer.md"
+		"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SRFullstackEngineer.md"
 	}
 ]
