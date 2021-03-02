@@ -1,35 +1,190 @@
 [{
-		"id": "0",
-		"location": "Remote",
-		"position": "SR Backend Engineer",
-		"datePosted": "09/10/2020",
-		"validThrough": "12/01/2020",
-		"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
-		"baseSalary": {
-			"currency": "USD",
-			"value": 38400,
-			"unitText": "YEAR"
-		},
-		"jobLocation": {
-			"addressCountry": "United States",
-			"addressRegion": "New York",
-			"addressLocality": "New York",
-			"postalCode": "10010",
-			"streetAddress": "19 West 24th Street, 10th Floor"
-		},
-		"tags": [
-			"TypeScript",
-			"Python",
-			"GraphQL",
-			"Docker"
-		],
-		"team": "Engineering",
-		"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SRFullstackEngineer.md"
+	"id": "BusinessOperationsAssociate",
+	"location": "Remote",
+	"position": "Business Operations Associate",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "USD",
+		"value": 0,
+		"unitText": "YEAR"
 	},
+	"jobLocation": {
+		"addressCountry": "United States",
+		"addressRegion": "New York",
+		"addressLocality": "New York",
+		"postalCode": "10010",
+		"streetAddress": "19 West 24th Street, 10th Floor"
+	},
+	"tags": [
+		"Business",
+		"Operations"
+	],
+	"team": "Business",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/BusinessOperationsAssociate.md"
+},
 {
-	"id": "1",
+	"id": "HeadOfRisk",
+	"location": "Remote",
+	"position": "Head Of Risk",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "USD",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "United States",
+		"addressRegion": "New York",
+		"addressLocality": "New York",
+		"postalCode": "10010",
+		"streetAddress": "19 West 24th Street, 10th Floor"
+	},
+	"tags": [
+		"Risk",
+		"Fraud",
+		"Business"
+	],
+	"team": "Business",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/HeadOfRisk.md"
+},{
+	"id": "MarketingAnalyst",
+	"location": "CDMX",
+	"position": "Marketing Analyst",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "MEX",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "Mexico",
+		"addressRegion": "CDMX",
+		"addressLocality": "CDMX",
+		"postalCode": "01110",
+		"streetAddress": "CDMX"
+	},
+	"tags": [
+		"Marketing",
+		"Online",
+		"Analytics"
+	],
+	"team": "Marketing",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/MarketingAnalyst.md"
+},{
+	"id": "NewBusinessManager",
+	"location": "CDMX",
+	"position": "New Business Manager",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "MEX",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "Mexico",
+		"addressRegion": "CDMX",
+		"addressLocality": "CDMX",
+		"postalCode": "01110",
+		"streetAddress": "TBD"
+	},
+	"tags": [
+		"Business",
+		"Manager",
+		"Innovation"
+	],
+	"team": "Business",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/NewBusinessManager.md"
+},{
+	"id": "SalesAndBusinessDevelopmentAnalyst",
+	"location": "CDMX",
+	"position": "Sales And Business Development Analyst",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "MEX",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "Mexico",
+		"addressRegion": "CDMX",
+		"addressLocality": "CDMX",
+		"postalCode": "01110",
+		"streetAddress": "TBD"
+	},
+	"tags": [
+		"Sales",
+		"Client"
+	],
+	"team": "Business",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SalesAndBusinessDevelopmentAnalyst.md"
+},{
+	"id": "SalesAndBusinessDevelopmentAssociate",
+	"location": "CDMX",
+	"position": "Sales And Business Development Associate",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "MEX",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "Mexico",
+		"addressRegion": "CDMX",
+		"addressLocality": "CDMX",
+		"postalCode": "01110",
+		"streetAddress": "TBD"
+	},
+	"tags": [
+		"Sales",
+		"Client",
+		"Fintech"
+	],
+	"team": "Business",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SalesAndBusinessDevelopmentAssociate.md"
+},{
+	"id": "SRBackendDataEngineer",
 	"location": "Remote",
 	"position": "SR Backend Data Engineer",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "USD",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "United States",
+		"addressRegion": "New York",
+		"addressLocality": "New York",
+		"postalCode": "10010",
+		"streetAddress": "19 West 24th Street, 10th Floor"
+	},
+	"tags": [
+		"Python",
+		"Docker",
+		"Pandas",
+		"Numpy",
+		"Jupyter"
+	],
+	"team": "Engineering",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SRBackendDataEngineer.md"
+},{
+	"id": "SRFullstackEngineer",
+	"location": "Remote",
+	"position": "SR Backend Engineer",
 	"datePosted": "09/10/2020",
 	"validThrough": "12/01/2020",
 	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
@@ -48,10 +203,62 @@
 	"tags": [
 		"TypeScript",
 		"Python",
-		"Docker",
-		"NodeJS"
+		"GraphQL",
+		"Docker"
 	],
 	"team": "Engineering",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SRFullstackEngineer.md"
+},
+{
+	"id": "SSRBackendDataEngineer",
+	"location": "Remote",
+	"position": "SSR Backend Data Engineer",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "USD",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "United States",
+		"addressRegion": "New York",
+		"addressLocality": "New York",
+		"postalCode": "10010",
+		"streetAddress": "19 West 24th Street, 10th Floor"
+	},
+	"tags": [
+		"Python",
+		"Docker"
+	],
+	"team": "Engineering",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SSRBackendDataEngineer.md"
+},
+{
+	"id": "SSRFrontendEngineer",
+	"location": "Remote",
+	"position": "SSR Frontend Engineer",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "USD",
+		"value": 0,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "United States",
+		"addressRegion": "New York",
+		"addressLocality": "New York",
+		"postalCode": "10010",
+		"streetAddress": "19 West 24th Street, 10th Floor"
+	},
+	"tags": [
+		"React",
+		"Redux"
+	],
+	"team": "Engineering",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SSRFrontendEngineer.md"
 }
 ]

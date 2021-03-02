@@ -9,7 +9,7 @@ Contamos con un equipo increíble de personas talentosas con amplia experiencia 
 Esta no es nuestra primera aventura, todos venimos de construir y trabajar en startups, llevándolas a decenas de millones de usuarios y miles de millones en valoración.
 Somos un equipo honesto, trabajador y solidario, obsesionado con la creación de productos increíbles.
 
-# Que encontrará
+# Que encontrarás
 El aprendizaje está en nuestra médula. Nos desafiamos a nosotros mismos y a los demás todos los días, y enseñamos continuamente lo que aprendemos en nuestro viaje.
 Encontrarás tus límites en Mundi y juntos te ayudaremos a superarlos (eso es aprendizaje).
 Te enseñaremos todo lo que sabemos y también aprenderemos mucho juntos.

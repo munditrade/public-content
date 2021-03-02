@@ -11,7 +11,6 @@ As Sales and Business Development Analyst, you will move fast with the team to h
 You will be expected to deliver insights and help in setting product and operations strategy and building a scalable company and culture. The role is based in CDMX; if the situation allows us, we will have an office soon. Don't worry! We respect people’s time, so we offer as much flexibility as possible.
 
 # What you will do:
-
 * Prospect new clients.
 * Identify the needs and wants of clients.
 * Gather all the clients' information.
@@ -19,7 +18,6 @@ You will be expected to deliver insights and help in setting product and operati
 * Identify and experiment with new client acquisition channels.
 
 # What you need to have:
-
 * A previous work experience.
 * Exceptional client management abilities - you are known for getting things done.
 * A desire to work hard in a fast-paced, dynamic environment with high energy and mission-driven colleagues.
@@ -29,7 +27,6 @@ You will be expected to deliver insights and help in setting product and operati
 * Extra bonus points if you’ve worked in Fintech startups.
 
 # Why do our team members say they love working at Mundi?
-
 * We offer a competitive salary, stock options package, and benefits.
 * We take seriously the well-being of our team.
 * We invest in our team's personal and professional growth.

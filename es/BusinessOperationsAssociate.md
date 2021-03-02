@@ -6,27 +6,24 @@ Creemos que el comercio internacional es bueno para los países y que todas las 
 Buscamos las mejores personas para trabajar en nuestra empresa; personas muy motivadas, prácticas y que amen hacer las cosas de la manera correcta.
 
 # Que encontrarás
-Como Head of Risk, tendrás la oportunidad de construir la base y la estrategia para las operaciones de riesgo y crédito en Mundi. Trabajarás en estrecha colaboración con el equipo de liderazgo de Mundi para establecer estrategias de riesgo y fraude, identificar nuevos desafíos y abordarlos con soluciones basadas en datos.
+Como Business Operations Associate, avanzarás rápidamente con el equipo y trabajarás en proyectos multidisciplinarios para ayudar a desarrollar el negocio de Mundi. Trabajará en estrecha colaboración con el equipo de liderazgo de Mundi para identificar nuevos desafíos y abordarlos con soluciones fundamentadas en la información disponible.
 
-Esperamos que trabajes en la mayoría de los aspectos del negocio para brindar información y ayudar a implementar estrategias y procesos que permitan a la empresa escalar.
+Buscamos un compañero de equipo que sea adaptable, altamente motivado, orientado a los detalles y práctico; alguien que tiene pasión por resolver problemas difíciles. Se espera que trabaje con el equipo de liderazgo en la mayoría de los aspectos del negocio (ventas, éxito comercial, producto, operaciones, legal, marketing, desarrollo comercial, riesgo, finanzas y análisis) para brindar información y ayudar a implementar estrategias y procesos que permitir que la empresa escale.
 
 Nuestro equipo se distribuye entre Estados Unidos, México, Colombia y Argentina, pero, ¡no te preocupes! Esta posición es remota. Respetamos el tiempo de las personas, por lo que siempre ofrecemos la mayor flexibilidad posible.
 
 # Qué harás:
-* Gestionar el día a día en la prevención y mitigación de riesgos y fraudes.
-* Desarrollar e implementar estrategias innovadoras que equilibren el crecimiento con el buen desempeño de la plataforma y preserven la experiencia del cliente.
-* Desarrollar y monitorear herramientas y procesos para garantizar una detección de fraude de alta calidad manteniendo equilibrados las tasas de aceptación y el impactos en las pérdidas y ganancias.
-* Colaborar con equipos multidisciplinarios para mantener y mejorar nuestra infraestructura en torno a los sistemas de riesgo, la originación de préstamos y los cobros.
-* Asegurar una cultura de riesgo efectiva.
+* Liderar la excelencia operativa mediante la identificación de ineficiencias y la automatización de procesos para permitir un rendimiento escalable.
+* Contribuir a las decisiones estratégicas de los productos de pagos, ventas y cobros mediante el análisis de las condiciones del mercado y la competencia.
+* Identificar las brechas en nuestra operación y realices lo necesario por completarlas.
 
 # Qué necesitarás tener:
-* Más de 5 años de experiencia en posiciones afines en empresas de servicios financieros.
-* Capacidad para transformar datos comerciales y financieros en una descripción coherente de los riesgos crediticios potenciales, junto a estrategias de mitigación.
-* Mentalidad estratégica para ir más allá de lo que necesitamos hoy
-* Mentalidad de crecimiento, curiosidad por herramientas de productividad y la automatización de procesos.
+* De 1 a 3 años de experiencia laboral
+* Una sólida experiencia profesional en startups, consultoría, banca, desarrollo internacional.
 * Habilidades excepcionales de gestión de proyectos, te conocen por hacer que las cosas pasen.
-* Una actitud proactiva: trabajarás de forma independiente y eficaz sin supervisión.
-* Excelentes habilidades de comunicación (tanto verbal como escrita) con capacidad para escuchar y responder en español e inglés.
+* Historial comprobado de resolución de problemas y análisis numérico avanzado
+* Habilidoso con las herramientas de productividad y la automatización de procesos.
+* Una actitud proactiva: trabaja de forma independiente y eficaz, con poca supervisión o gestión
 * Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
 
 # ¿Por qué nuestro equipo dicen que les encanta trabajar en Mundi?
