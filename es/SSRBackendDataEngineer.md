@@ -4,6 +4,8 @@ Nos respalda el fondo de capital [FJ Labs.(http://www.fjlabs.com)
 
 Somos una empresa joven y pequeña con nuestra sede en la ciudad de Nueva York, nuestro equipo de operaciones está en México y nuestro equipo de tecnología se está construyendo inicialmente en Buenos Aires, Argentina.
 
+---
+
 # El equipo
 Contamos con un equipo increíble de personas talentosas con amplia experiencia en tecnología, negocios y operaciones.
 Esta no es nuestra primera aventura, todos venimos de construir y trabajar en startups, llevándolas a decenas de millones de usuarios y miles de millones en valoración.
