@@ -25,5 +25,33 @@
 		],
 		"team": "Engineering",
 		"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SRFullstackEngineer.md"
-	}
+	},
+{
+	"id": "1",
+	"location": "Remote",
+	"position": "SR Backend Data Engineer",
+	"datePosted": "09/10/2020",
+	"validThrough": "12/01/2020",
+	"employmentType": [ "FULL_TIME", "CONTRACTOR" ],
+	"baseSalary": {
+		"currency": "USD",
+		"value": 38400,
+		"unitText": "YEAR"
+	},
+	"jobLocation": {
+		"addressCountry": "United States",
+		"addressRegion": "New York",
+		"addressLocality": "New York",
+		"postalCode": "10010",
+		"streetAddress": "19 West 24th Street, 10th Floor"
+	},
+	"tags": [
+		"TypeScript",
+		"Python",
+		"Docker",
+		"NodeJS"
+	],
+	"team": "Engineering",
+	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SRFullstackEngineer.md"
+}
 ]
