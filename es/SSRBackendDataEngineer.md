@@ -3,12 +3,12 @@ Mundi es la primera solución digital de pagos y financiación para exportadores
 Nos respalda el fondo de capital [FJ Labs.(http://www.fjlabs.com)
 
 Somos una empresa joven y pequeña con nuestra sede en la ciudad de Nueva York, nuestro equipo de operaciones está en México y nuestro equipo de tecnología se está construyendo inicialmente en Buenos Aires, Argentina.
-
+---
 # El equipo
 Contamos con un equipo increíble de personas talentosas con amplia experiencia en tecnología, negocios y operaciones.
 Esta no es nuestra primera aventura, todos venimos de construir y trabajar en startups, llevándolas a decenas de millones de usuarios y miles de millones en valoración.
 Somos un equipo honesto, trabajador y solidario, obsesionado con la creación de productos increíbles.
-
+---
 # Que encontrarás
 El aprendizaje está en nuestra médula. Nos desafiamos a nosotros mismos y a los demás todos los días, y enseñamos continuamente lo que aprendemos en nuestro viaje.
 Encontrarás tus límites en Mundi y juntos te ayudaremos a superarlos (eso es aprendizaje).
@@ -16,13 +16,13 @@ Te enseñaremos todo lo que sabemos y también aprenderemos mucho juntos.
 
 Creemos en la autonomía y la responsabilidad, aquí no serás microgerenciado hasta el cansancio.
 Te guiaremos y apoyaremos de todas las formas posibles, pero también te impulsaremos a hacer el mejor trabajo posible.
-
+---
 # A quien buscamos
 ¿Eres curioso y apasionado?
 ¿Aprender y probar cosas nuevas te mantiene despierto por la noche?
 ¿Estás cambiando con frecuencia entre el pragmatismo y el perfeccionismo (hacer las cosas, mientras las haces de la mejor manera posible)?
 ¿Te encanta el café, los memes tontos y las bromas, reunirte para tomar una cerveza ocasional y tener discusiones acaloradas sobre tecnología (desde pestañas o espacios de trabajo, hasta sistemas distribuidos y ML)?
-
+---
 # ¿Cuál es nuestra tecnología?
 Este no es un resumen exhaustivo, pero lo suficiente para darte una idea.
 
@@ -35,7 +35,7 @@ Arquitectura de microservicios (no del todo micro), tratamos de seguir los princ
 Estamos utilizando Node.js y Python como nuestros principales lenguajes de programación (Node para la mayoría de nuestros servicios y Python para nuestros flujos y modelos de datos).
 
 En el lado de la interfaz, React con hooks, css-in-js y Next.js.
-
+---
 # Paquete compensatorio
 Ofrecemos un paquete de compensación competitivo compuesto por:
 * Excelentes salarios en USD.
@@ -46,7 +46,7 @@ Ofrecemos un paquete de compensación competitivo compuesto por:
 * Plataforma de aprendizaje electrónico (membresía de ACM, O’Reilly SafariOnline).
 * Crédito anual de Amazon.com
 * Posibilidad de viajar a través de nuestras oficinas a medida que la empresa crece.
-
+---
 # SSr. Backend/Data Engineer (Python / opt. Node.js) (Tiempo Completo)
 Como miembro de nuestro equipo, nos ayudarás a construir nuestra plataforma backend y flujos de datos, literalmente la esencia de nuestra plataforma.
 
