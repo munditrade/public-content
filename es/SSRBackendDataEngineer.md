@@ -1,4 +1,4 @@
-# ![Bag](/icons/bag.svg 'Bag') Nosotros
+# ![Bag](/icons/bag.svg 'Bag')Nosotros
 Mundi es la primera solución digital de pagos y financiación para exportadores. Creemos que el comercio internacional es bueno para el mundo y que podemos ayudar a las pymes a comerciar [1,5 billones de dólares adicionales al año.](https://www.adb.org/sites/default/files/publication/359631/adb-briefs-83.pdf) México es el primer mercado donde estamos abordando este problema global.
 Nos respalda el fondo de capital [FJ Labs.(http://www.fjlabs.com)
 
@@ -6,14 +6,14 @@ Somos una empresa joven y pequeña con nuestra sede en la ciudad de Nueva York, 
 
 ---
 
-# El equipo
+# ![Bag](/icons/bag.svg 'Bag')El equipo
 Contamos con un equipo increíble de personas talentosas con amplia experiencia en tecnología, negocios y operaciones.
 Esta no es nuestra primera aventura, todos venimos de construir y trabajar en startups, llevándolas a decenas de millones de usuarios y miles de millones en valoración.
 Somos un equipo honesto, trabajador y solidario, obsesionado con la creación de productos increíbles.
 
 ---
 
-# Que encontrarás
+# ![Bag](/icons/bag.svg 'Bag')Que encontrarás
 El aprendizaje está en nuestra médula. Nos desafiamos a nosotros mismos y a los demás todos los días, y enseñamos continuamente lo que aprendemos en nuestro viaje.
 Encontrarás tus límites en Mundi y juntos te ayudaremos a superarlos (eso es aprendizaje).
 Te enseñaremos todo lo que sabemos y también aprenderemos mucho juntos.
@@ -23,7 +23,7 @@ Te guiaremos y apoyaremos de todas las formas posibles, pero también te impulsa
 
 ---
 
-# A quien buscamos
+# ![Bag](/icons/bag.svg 'Bag')A quien buscamos
 ¿Eres curioso y apasionado?
 ¿Aprender y probar cosas nuevas te mantiene despierto por la noche?
 ¿Estás cambiando con frecuencia entre el pragmatismo y el perfeccionismo (hacer las cosas, mientras las haces de la mejor manera posible)?
@@ -31,7 +31,7 @@ Te guiaremos y apoyaremos de todas las formas posibles, pero también te impulsa
 
 ---
 
-# ¿Cuál es nuestra tecnología?
+# ![Bag](/icons/bag.svg 'Bag')¿Cuál es nuestra tecnología?
 Este no es un resumen exhaustivo, pero lo suficiente para darte una idea.
 
 Dado que somos una startup centrada en los datos, hemos decidido utilizar Google Cloud Platform como nuestro proveedor de la nube, tienen un gran conjunto de productos de datos creados sobre una enorme comunidad de código abierto y con excelentes precios.
@@ -46,7 +46,7 @@ En el lado de la interfaz, React con hooks, css-in-js y Next.js.
 
 ---
 
-# Paquete compensatorio
+# ![Bag](/icons/bag.svg 'Bag')Paquete compensatorio
 Ofrecemos un paquete de compensación competitivo compuesto por:
 * Excelentes salarios en USD.
 * Generoso paquete de stock options (1yr cliff, 4yr vesting).
@@ -59,7 +59,7 @@ Ofrecemos un paquete de compensación competitivo compuesto por:
 
 ---
 
-# SSr. Backend/Data Engineer (Python / opt. Node.js) (Tiempo Completo)
+# ![Bag](/icons/bag.svg 'Bag')SSr. Backend/Data Engineer (Python / opt. Node.js) (Tiempo Completo)
 Como miembro de nuestro equipo, nos ayudarás a construir nuestra plataforma backend y flujos de datos, literalmente la esencia de nuestra plataforma.
 
 Esperamos que trabajes de forma autónoma y que entregues funcionalidades completas, así como que ayudes al resto del equipo a crecer y tener éxito.
