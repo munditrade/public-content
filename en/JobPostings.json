@@ -21,7 +21,7 @@
 		"Business",
 		"Operations"
 	],
-	"team": "Business",
+	"team": "ops",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/BusinessOperationsAssociate.md"
 },
 {
@@ -48,7 +48,7 @@
 		"Fraud",
 		"Business"
 	],
-	"team": "Business",
+	"team": "risk_credit",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/HeadOfRisk.md"
 },{
 	"id": "MarketingAnalyst",
@@ -74,7 +74,7 @@
 		"Online",
 		"Analytics"
 	],
-	"team": "Marketing",
+	"team": "marketing",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/MarketingAnalyst.md"
 },{
 	"id": "NewBusinessManager",
@@ -100,7 +100,7 @@
 		"Manager",
 		"Innovation"
 	],
-	"team": "Business",
+	"team": "new_business",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/NewBusinessManager.md"
 },{
 	"id": "SalesAndBusinessDevelopmentAnalyst",
@@ -125,7 +125,7 @@
 		"Sales",
 		"Client"
 	],
-	"team": "Business",
+	"team": "commercial_sales",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SalesAndBusinessDevelopmentAnalyst.md"
 },{
 	"id": "SalesAndBusinessDevelopmentAssociate",
@@ -151,7 +151,7 @@
 		"Client",
 		"Fintech"
 	],
-	"team": "Business",
+	"team": "commercial_sales",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SalesAndBusinessDevelopmentAssociate.md"
 },{
 	"id": "SRBackendDataEngineer",
@@ -179,7 +179,7 @@
 		"Numpy",
 		"Jupyter"
 	],
-	"team": "Engineering",
+	"team": "tech",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SRBackendDataEngineer.md"
 },{
 	"id": "SRFullstackEngineer",
@@ -232,7 +232,7 @@
 		"Python",
 		"Docker"
 	],
-	"team": "Engineering",
+	"team": "tech",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SSRBackendDataEngineer.md"
 },
 {
@@ -258,7 +258,7 @@
 		"React",
 		"Redux"
 	],
-	"team": "Engineering",
+	"team": "tech",
 	"contentUrl": "https://raw.githubusercontent.com/munditrade/public-content/master/en/SSRFrontendEngineer.md"
 }
 ]
