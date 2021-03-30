@@ -15,30 +15,30 @@ Esperamos que brindes conocimientos y ayudes a establecer la estrategia de opera
 ---
 
 # ![Star](/icons/star.svg 'Star')Qué harás:
-* Contactar y perfilar nuevos clientes.
-* Identificar las necesidades y deseos de los clientes.
-* Recopilar toda la información de los clientes.
-* Estar atento a las mejoras en los procesos de ventas y la evolución del producto.
-* Identificar y experimentar con nuevos canales de captación de clientes.
+- Contactar y perfilar nuevos clientes.
+- Identificar las necesidades y deseos de los clientes.
+- Recopilar toda la información de los clientes.
+- Estar atento a las mejoras en los procesos de ventas y la evolución del producto.
+- Identificar y experimentar con nuevos canales de captación de clientes.
 
 ---
 
 # ![Lens](/icons/lens.svg 'Lens')Qué necesitarás tener:
-* De 1 a 3 años de experiencia laboral con una sólida trayectoria profesional en ventas.
-* Habilidades excepcionales de gestión de clientes
-* Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
-* Una actitud proactiva: trabajarás de forma independiente y eficaz sin supervisión.
-* Excelentes habilidades de comunicación (tanto verbal como escrita) con capacidad para escuchar y responder en español e inglés.
-* Contar con motivación propia, con foco en soluciones para resolver problemas rápidamente y con las mejores prácticas.
-* Puntos de bonificación adicionales, si has trabajado en nuevas empresas de tecnología financiera.
+- De 1 a 3 años de experiencia laboral con una sólida trayectoria profesional en ventas.
+- Habilidades excepcionales de gestión de clientes
+- Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
+- Una actitud proactiva: trabajarás de forma independiente y eficaz sin supervisión.
+- Excelentes habilidades de comunicación (tanto verbal como escrita) con capacidad para escuchar y responder en español e inglés.
+- Contar con motivación propia, con foco en soluciones para resolver problemas rápidamente y con las mejores prácticas.
+- Puntos de bonificación adicionales, si has trabajado en nuevas empresas de tecnología financiera.
 
 ---
 
 # ![Reward](/icons/reward.svg 'Reward')¿Por qué nuestro equipo dice que le encanta trabajar en Mundi?
-* Ofrecemos un salario competitivo, paquete de stock options y beneficios.
-* Nos tomamos muy en serio el bienestar de nuestro equipo.
-* Invertimos en el crecimiento personal y profesional de nuestro equipo.
-* Valoramos la pasión y la curiosidad.
-* Ofrecemos autonomía y flexibilidad.
+- Ofrecemos un salario competitivo, paquete de stock options y beneficios.
+- Nos tomamos muy en serio el bienestar de nuestro equipo.
+- Invertimos en el crecimiento personal y profesional de nuestro equipo.
+- Valoramos la pasión y la curiosidad.
+- Ofrecemos autonomía y flexibilidad.
 
 Somos un equipo multidisciplinario, diverso y entusiasta. Queremos ser mejores cada día y resolver problemas difíciles de manera conjunta con soluciones creativas. Fracasamos, aprendemos y mejoramos.

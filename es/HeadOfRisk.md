@@ -17,31 +17,31 @@ Nuestro equipo se distribuye entre Estados Unidos, México, Colombia y Argentina
 ---
 
 # ![Star](/icons/star.svg 'Star')Qué harás:
-* Gestionar el día a día en la prevención y mitigación de riesgos y fraudes.
-* Desarrollar e implementar estrategias innovadoras que equilibren el crecimiento con el buen desempeño de la plataforma y preserven la experiencia del cliente.
-* Desarrollar y monitorear herramientas y procesos para garantizar una detección de fraude de alta calidad manteniendo equilibrados las tasas de aceptación y el impactos en las pérdidas y ganancias.
-* Colaborar con equipos multidisciplinarios para mantener y mejorar nuestra infraestructura en torno a los sistemas de riesgo, la originación de préstamos y los cobros.
-* Asegurar una cultura de riesgo efectiva.
+- Gestionar el día a día en la prevención y mitigación de riesgos y fraudes.
+- Desarrollar e implementar estrategias innovadoras que equilibren el crecimiento con el buen desempeño de la plataforma y preserven la experiencia del cliente.
+- Desarrollar y monitorear herramientas y procesos para garantizar una detección de fraude de alta calidad manteniendo equilibrados las tasas de aceptación y el impactos en las pérdidas y ganancias.
+- Colaborar con equipos multidisciplinarios para mantener y mejorar nuestra infraestructura en torno a los sistemas de riesgo, la originación de préstamos y los cobros.
+- Asegurar una cultura de riesgo efectiva.
 
 ---
 
 # ![Lens](/icons/lens.svg 'Lens')Qué necesitarás tener:
-* Más de 5 años de experiencia en posiciones afines en empresas de servicios financieros.
-* Capacidad para transformar datos comerciales y financieros en una descripción coherente de los riesgos crediticios potenciales, junto a estrategias de mitigación.
-* Mentalidad estratégica para ir más allá de lo que necesitamos hoy
-* Mentalidad de crecimiento, curiosidad por herramientas de productividad y la automatización de procesos.
-* Habilidades excepcionales de gestión de proyectos, te conocen por hacer que las cosas pasen.
-* Una actitud proactiva: trabajarás de forma independiente y eficaz sin supervisión.
-* Excelentes habilidades de comunicación (tanto verbal como escrita) con capacidad para escuchar y responder en español e inglés.
-* Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
+- Más de 5 años de experiencia en posiciones afines en empresas de servicios financieros.
+- Capacidad para transformar datos comerciales y financieros en una descripción coherente de los riesgos crediticios potenciales, junto a estrategias de mitigación.
+- Mentalidad estratégica para ir más allá de lo que necesitamos hoy
+- Mentalidad de crecimiento, curiosidad por herramientas de productividad y la automatización de procesos.
+- Habilidades excepcionales de gestión de proyectos, te conocen por hacer que las cosas pasen.
+- Una actitud proactiva: trabajarás de forma independiente y eficaz sin supervisión.
+- Excelentes habilidades de comunicación (tanto verbal como escrita) con capacidad para escuchar y responder en español e inglés.
+- Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
 
 ---
 
 # ![Reward](/icons/reward.svg 'Reward')¿Por qué nuestro equipo dice que le encanta trabajar en Mundi?
-* Ofrecemos un salario competitivo, paquete de stock options y beneficios.
-* Nos tomamos muy en serio el bienestar de nuestro equipo.
-* Invertimos en el crecimiento personal y profesional de nuestro equipo.
-* Valoramos la pasión y la curiosidad.
-* Ofrecemos autonomía y flexibilidad.
+- Ofrecemos un salario competitivo, paquete de stock options y beneficios.
+- Nos tomamos muy en serio el bienestar de nuestro equipo.
+- Invertimos en el crecimiento personal y profesional de nuestro equipo.
+- Valoramos la pasión y la curiosidad.
+- Ofrecemos autonomía y flexibilidad.
 
 Somos un equipo multidisciplinario, diverso y entusiasta. Queremos ser mejores cada día y resolver problemas difíciles de manera conjunta con soluciones creativas. Fracasamos, aprendemos y mejoramos.

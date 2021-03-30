@@ -48,14 +48,14 @@ En el lado de la interfaz, React con hooks, css-in-js y Next.js.
 
 # ![Reward](/icons/reward.svg 'Reward')Paquete compensatorio
 Ofrecemos un paquete de compensación competitivo compuesto por:
-* Excelentes salarios en USD.
-* Generoso paquete de stock options (1yr cliff, 4yr vesting).
-* Tres (3) semanas de vacaciones pagas (puede solicitar más si las necesita).
-* Nuevo MacBook Pro (última generación)
-* Trabajar desde casa, pero también estamos montando una oficina para reunirnos y acelerar las cosas cuando sea necesario (con café caliente todos los días y cerveza fría los viernes).
-* Plataforma de aprendizaje electrónico (membresía de ACM, O’Reilly SafariOnline).
-* Crédito anual de Amazon.com
-* Posibilidad de viajar a través de nuestras oficinas a medida que la empresa crece.
+- Excelentes salarios en USD.
+- Generoso paquete de stock options (1yr cliff, 4yr vesting).
+- Tres (3) semanas de vacaciones pagas (puede solicitar más si las necesita).
+- Nuevo MacBook Pro (última generación)
+- Trabajar desde casa, pero también estamos montando una oficina para reunirnos y acelerar las cosas cuando sea necesario (con café caliente todos los días y cerveza fría los viernes).
+- Plataforma de aprendizaje electrónico (membresía de ACM, O’Reilly SafariOnline).
+- Crédito anual de Amazon.com
+- Posibilidad de viajar a través de nuestras oficinas a medida que la empresa crece.
 
 ---
 
@@ -64,19 +64,19 @@ Como miembro de nuestro equipo, nos ayudarás a construir nuestra plataforma bac
 
 Esperamos que trabajes de forma autónoma y que entregues funcionalidades completas, así como que ayudes al resto del equipo a crecer y tener éxito.
 Para esto, debes tener experiencia con nuestra tecnología y las mejores prácticas de desarrollo de software, con especial atención a:
-* Python (buen conocimiento de la API de Python)
-* Experiencia trabajando con contenedores Docker de entornos en la nube.
-* No se envía ningún cambio sin los ajustes correspondientes a su(s) caso(s) de prueba.
-* Experiencia en el desarrollo de sistemas con una arquitectura de microservicio (por ejemplo, patrones de monitoreo y resiliencia, administración de datos y estados, etc.)
-* Experiencia trabajando con CI / CD (PRs, revisiones de código, etc.)
+- Python (buen conocimiento de la API de Python)
+- Experiencia trabajando con contenedores Docker de entornos en la nube.
+- No se envía ningún cambio sin los ajustes correspondientes a su(s) caso(s) de prueba.
+- Experiencia en el desarrollo de sistemas con una arquitectura de microservicio (por ejemplo, patrones de monitoreo y resiliencia, administración de datos y estados, etc.)
+- Experiencia trabajando con CI / CD (PRs, revisiones de código, etc.)
 
 Otras cosas que valoraremos de manera opcional:
-* Experiencia en la creación de servicios con Node.js (gran ventaja)
-* Comprensión de arquitecturas basadas en eventos
-* Comprensión de DDD (Domain Driven Design)
-* Experiencia con el ecosistema de datos de Python (Pandas, Numpy, Jupyter).
-* Experiencia (o interés) en Machine learning / data science (por ejemplo, ScikitLearn, Tensorflow / Keras)
-* Experiencia en la creación de API con Graphql / Apollo (por ejemplo, con suscriptores)
-* Experiencia trabajando con Kubernetes y Google Cloud
+- Experiencia en la creación de servicios con Node.js (gran ventaja)
+- Comprensión de arquitecturas basadas en eventos
+- Comprensión de DDD (Domain Driven Design)
+- Experiencia con el ecosistema de datos de Python (Pandas, Numpy, Jupyter).
+- Experiencia (o interés) en Machine learning / data science (por ejemplo, ScikitLearn, Tensorflow / Keras)
+- Experiencia en la creación de API con Graphql / Apollo (por ejemplo, con suscriptores)
+- Experiencia trabajando con Kubernetes y Google Cloud
 
 Si hay cosas que no dominas, pero estás ansioso por aprender y dedicar el tiempo para hacerlo, contáctanos, al final del día valoramos la pasión y la curiosidad más que una o dos habilidades específicas.

@@ -15,31 +15,31 @@ Esperamos que nos guíes y ayudes a establecer una estrategia de marketing digit
 ---
 
 # ![Star](/icons/star.svg 'Star')Qué harás:
-* Ejecutar una estrategia de marketing paga en sincronía con el producto y los objetivos generales de la empresa.
-* Optimizar nuestra presencia en línea.
-* Mejorar el posicionamiento de la marca de la manera más eficiente y atractiva posible.
-* Desarrollar y gestionar el seguimiento de los objetivos generales de gasto y rendimiento.
-* Crear y gestionar contenido original (conocimientos básicos en Illustrator y Photoshop).
+- Ejecutar una estrategia de marketing paga en sincronía con el producto y los objetivos generales de la empresa.
+- Optimizar nuestra presencia en línea.
+- Mejorar el posicionamiento de la marca de la manera más eficiente y atractiva posible.
+- Desarrollar y gestionar el seguimiento de los objetivos generales de gasto y rendimiento.
+- Crear y gestionar contenido original (conocimientos básicos en Illustrator y Photoshop).
 
 ---
 
 # ![Lens](/icons/lens.svg 'Lens')Qué necesitarás tener:
-* Más de 2 años de experiencia relevante.
-* Mentalidad basada en datos.
-* Conocimientos o capacidad para aprender rápidamente herramientas de análisis de marketing / web (por ejemplo, Google Analytics, AppsFlyer, Optimizely, Looker)
-* Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
-* Una actitud proactiva: trabajarás de forma independiente y eficaz.
-* Excelentes habilidades de comunicación (tanto verbal como escrita) con capacidad para escuchar y responder en español e inglés.
-* Contar con motivación propia, con foco en soluciones para resolver problemas rápidamente y con las mejores prácticas.
-* Puntos de bonificación adicionales si ha trabajado en startups de FinTech.
+- Más de 2 años de experiencia relevante.
+- Mentalidad basada en datos.
+- Conocimientos o capacidad para aprender rápidamente herramientas de análisis de marketing / web (por ejemplo, Google Analytics, AppsFlyer, Optimizely, Looker)
+- Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
+- Una actitud proactiva: trabajarás de forma independiente y eficaz.
+- Excelentes habilidades de comunicación (tanto verbal como escrita) con capacidad para escuchar y responder en español e inglés.
+- Contar con motivación propia, con foco en soluciones para resolver problemas rápidamente y con las mejores prácticas.
+- Puntos de bonificación adicionales si ha trabajado en startups de FinTech.
 
 ---
 
 # ![Reward](/icons/reward.svg 'Reward')¿Por qué nuestro equipo dice que le encanta trabajar en Mundi?
-* Ofrecemos un salario competitivo, paquete de stock options y beneficios.
-* Nos tomamos muy en serio el bienestar de nuestro equipo.
-* Invertimos en el crecimiento personal y profesional de nuestro equipo.
-* Valoramos la pasión y la curiosidad.
-* Ofrecemos autonomía y flexibilidad.
+- Ofrecemos un salario competitivo, paquete de stock options y beneficios.
+- Nos tomamos muy en serio el bienestar de nuestro equipo.
+- Invertimos en el crecimiento personal y profesional de nuestro equipo.
+- Valoramos la pasión y la curiosidad.
+- Ofrecemos autonomía y flexibilidad.
 
 Somos un equipo multidisciplinario, diverso y entusiasta. Queremos ser mejores cada día y resolver problemas difíciles de manera conjunta con soluciones creativas. Fracasamos, aprendemos y mejoramos.

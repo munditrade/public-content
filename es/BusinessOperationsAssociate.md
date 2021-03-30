@@ -17,28 +17,28 @@ Nuestro equipo se distribuye entre Estados Unidos, México, Colombia y Argentina
 ---
 
 # ![Star](/icons/star.svg 'Star')Qué harás:
-* Liderar la excelencia operativa mediante la identificación de ineficiencias y la automatización de procesos para permitir un rendimiento escalable.
-* Contribuir a las decisiones estratégicas de los productos de pagos, ventas y cobros mediante el análisis de las condiciones del mercado y la competencia.
-* Identificar las brechas en nuestra operación y realices lo necesario por completarlas.
+- Liderar la excelencia operativa mediante la identificación de ineficiencias y la automatización de procesos para permitir un rendimiento escalable.
+- Contribuir a las decisiones estratégicas de los productos de pagos, ventas y cobros mediante el análisis de las condiciones del mercado y la competencia.
+- Identificar las brechas en nuestra operación y realices lo necesario por completarlas.
 
 ---
 
 # ![Lens](/icons/lens.svg 'Lens')Qué necesitarás tener:
-* De 1 a 3 años de experiencia laboral
-* Una sólida experiencia profesional en startups, consultoría, banca, desarrollo internacional.
-* Habilidades excepcionales de gestión de proyectos, te conocen por hacer que las cosas pasen.
-* Historial comprobado de resolución de problemas y análisis numérico avanzado
-* Habilidoso con las herramientas de productividad y la automatización de procesos.
-* Una actitud proactiva: trabaja de forma independiente y eficaz, con poca supervisión o gestión
-* Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
+- De 1 a 3 años de experiencia laboral
+- Una sólida experiencia profesional en startups, consultoría, banca, desarrollo internacional.
+- Habilidades excepcionales de gestión de proyectos, te conocen por hacer que las cosas pasen.
+- Historial comprobado de resolución de problemas y análisis numérico avanzado
+- Habilidoso con las herramientas de productividad y la automatización de procesos.
+- Una actitud proactiva: trabaja de forma independiente y eficaz, con poca supervisión o gestión
+- Deseo de trabajar duro en un entorno dinámico y de ritmo acelerado con compañeros enérgicos y motivados por el objetivo en común.
 
 ---
 
 # ![Reward](/icons/reward.svg 'Reward')¿Por qué nuestro equipo dice que le encanta trabajar en Mundi?
-* Ofrecemos un salario competitivo, paquete de stock options y beneficios.
-* Nos tomamos muy en serio el bienestar de nuestro equipo.
-* Invertimos en el crecimiento personal y profesional de nuestro equipo.
-* Valoramos la pasión y la curiosidad.
-* Ofrecemos autonomía y flexibilidad.
+- Ofrecemos un salario competitivo, paquete de stock options y beneficios.
+- Nos tomamos muy en serio el bienestar de nuestro equipo.
+- Invertimos en el crecimiento personal y profesional de nuestro equipo.
+- Valoramos la pasión y la curiosidad.
+- Ofrecemos autonomía y flexibilidad.
 
 Somos un equipo multidisciplinario, diverso y entusiasta. Queremos ser mejores cada día y resolver problemas difíciles de manera conjunta con soluciones creativas. Fracasamos, aprendemos y mejoramos.
