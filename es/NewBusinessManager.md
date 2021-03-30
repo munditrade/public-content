@@ -38,7 +38,7 @@ Entre todas las responsabilidades, serás responsable de dar forma al próximo g
 
 ---
 
-# ![Reward](/icons/reward.svg 'Reward')¿Por qué nuestro equipo dice que le encanta trabajar en Mundi?
+# ![Heart](/icons/heart.svg 'heart')¿Por qué nuestro equipo dice que le encanta trabajar en Mundi?
 * Ofrecemos un salario competitivo, paquete de stock options y beneficios.
 * Nos tomamos muy en serio el bienestar de nuestro equipo.
 * Invertimos en el crecimiento personal y profesional de nuestro equipo.
