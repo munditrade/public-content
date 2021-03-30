@@ -1,4 +1,4 @@
-# ![Bag](/icons/bag.svg 'Bag')Nosotros
+# ![Bag](/icons/bag.svg 'Bag')Nosotro
 Mundi es la primera solución digital de pagos y financiación para exportadores. Creemos que el comercio internacional es bueno para el mundo y que podemos ayudar a las pymes a comerciar [1,5 billones de dólares adicionales al año.](https://www.adb.org/sites/default/files/publication/359631/adb-briefs-83.pdf) México es el primer mercado donde estamos abordando este problema global.
 Nos respalda el fondo de capital [FJ Labs.](http://www.fjlabs.com)
 
