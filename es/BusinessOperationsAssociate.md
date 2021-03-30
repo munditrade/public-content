@@ -1,7 +1,7 @@
 # ![Bag](/icons/bag.svg 'Bag')Nosotros
 Creemos que el comercio internacional es bueno para los países y que todas las empresas deben tener acceso a los mercados globales, independientemente de dónde se encuentren.
 
-[Mundi] (http://mundi.io/) existe para impulsar a las empresas a comerciar globalmente, conectando al mundo y reduciendo las barreras a las oportunidades económicas. Hemos creado la primera solución digital de Pagos y Financiamiento para el comercio transfronterizo. Hoy en día, las pequeñas y medianas empresas tienen problemas para acceder a los mercados globales, lo que resulta en miles de millones de ventas perdidas cada año.
+[Mundi](http://mundi.io/) existe para impulsar a las empresas a comerciar globalmente, conectando al mundo y reduciendo las barreras a las oportunidades económicas. Hemos creado la primera solución digital de Pagos y Financiamiento para el comercio transfronterizo. Hoy en día, las pequeñas y medianas empresas tienen problemas para acceder a los mercados globales, lo que resulta en miles de millones de ventas perdidas cada año.
 
 Buscamos las mejores personas para trabajar en nuestra empresa; personas muy motivadas, prácticas y que amen hacer las cosas de la manera correcta.
 

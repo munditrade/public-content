@@ -48,14 +48,14 @@ En el lado de la interfaz, React con hooks, css-in-js y Next.js.
 
 # ![Reward](/icons/reward.svg 'Reward')Paquete compensatorio
 Ofrecemos un paquete de compensación competitivo compuesto por:
-* Excelentes salarios en USD.
-* Generoso paquete de stock options (1yr cliff, 4yr vesting).
-* Tres (3) semanas de vacaciones pagas (puede solicitar más si las necesita).
-* Nuevo MacBook Pro (última generación)
-* Trabajar desde casa, pero también estamos montando una oficina para reunirnos y acelerar las cosas cuando sea necesario (con café caliente todos los días y cerveza fría los viernes).
-* Plataforma de aprendizaje electrónico (membresía de ACM, O’Reilly SafariOnline).
-* Crédito anual de Amazon.com
-* Posibilidad de viajar a través de nuestras oficinas a medida que la empresa crece.
+- Excelentes salarios en USD.
+- Generoso paquete de stock options (1yr cliff, 4yr vesting).
+- Tres (3) semanas de vacaciones pagas (puede solicitar más si las necesita).
+- Nuevo MacBook Pro (última generación)
+- Trabajar desde casa, pero también estamos montando una oficina para reunirnos y acelerar las cosas cuando sea necesario (con café caliente todos los días y cerveza fría los viernes).
+- Plataforma de aprendizaje electrónico (membresía de ACM, O’Reilly SafariOnline).
+- Crédito anual de Amazon.com
+- Posibilidad de viajar a través de nuestras oficinas a medida que la empresa crece.
 
 ---
 
@@ -64,13 +64,13 @@ Como miembro de nuestro equipo, nos ayudarás a crear una plataforma web de la c
 
 Esperamos que trabajes y entregues funcionalidades completas junto al equipo.
 Para esto, debes tener experiencia con nuestra tecnología y las mejores prácticas de desarrollo de software, con especial atención a:
-* React (por ejemplo, react hooks, administración de estado con Redux)
-* Experiencia trabajando con contenedores Docker de entornos en la nube.
-* No se envía ningún cambio sin los ajustes correspondientes a su(s) caso(s) de prueba.
-* Experiencia en la creación de aplicaciones web dinámicas, que puedan ser vistas desde cualquier dispositivo.
-* Motivado a crear experiencias atractivas y orientado a los detalles (las cosas que construimos deben estar bien construidas y verse hermosas)
+- React (por ejemplo, react hooks, administración de estado con Redux)
+- Experiencia trabajando con contenedores Docker de entornos en la nube.
+- No se envía ningún cambio sin los ajustes correspondientes a su(s) caso(s) de prueba.
+- Experiencia en la creación de aplicaciones web dinámicas, que puedan ser vistas desde cualquier dispositivo.
+- Motivado a crear experiencias atractivas y orientado a los detalles (las cosas que construimos deben estar bien construidas y verse hermosas)
 
 Otras cosas que valoraremos de manera opcional:
-* Experiencia trabajando con CI / CD (PRs, revisiones de código, etc.)
+- Experiencia trabajando con CI / CD (PRs, revisiones de código, etc.)
 
 Si hay cosas que no dominas, pero estás ansioso por aprender y dedicar el tiempo para hacerlo, contáctanos, al final del día valoramos la pasión y la curiosidad más que una o dos habilidades específicas.
