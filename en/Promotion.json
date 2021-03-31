@@ -1,5 +1,7 @@
 {
   "enabled": true,
   "code": "30DaysFreeV1",
-  "text": "Register now and operate for free on your first 30 days with Mundi!"
+  "text": "Register now and operate for free on your first 30 days with Mundi!",
+  "showCancelButton": true,
+  "showOnce": false
 }
