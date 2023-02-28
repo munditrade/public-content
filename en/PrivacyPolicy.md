@@ -1,4 +1,4 @@
-#Aviso de Privacidad de Mundi Trade, Inc.
+# Aviso de Privacidad de Mundi Trade, Inc
 
 El presente Aviso de Privacidad (en adelante, el “Aviso”) está dirigido al Cliente que
 reciba los servicios (en adelante los “Servicios”) (en lo sucesivo, el “Titular”) que se
@@ -26,7 +26,9 @@ Todos los Datos serán administrados de conformidad con los principios de licitu
 consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad
 contenidos en la Ley Federal de Protección de Datos Personales en Posesión de los
 Particulares.
-##I. DEFINICIONES.
+
+## I. DEFINICIONES
+
 Salvo los términos definidos en diversas secciones del presente Aviso o en la Ley, los
 términos que aparezcan con la primera letra en mayúscula, dentro del presente Aviso,
 tendrán los significados que a continuación se les asignan:
@@ -118,7 +120,9 @@ transferencia o disposición de Datos Personales.
 **Transferencia.-** Toda comunicación de Datos Personales realizada a persona distinta del
 Responsable o Encargado del tratamiento dentro y fuera del territorio nacional,
 incluyendo, pero no limitado a entidades del grupo y socios comerciales.
-##II. RESPONSABLE DE LA INFORMACIÓN.
+
+## II. RESPONSABLE DE LA INFORMACIÓN
+
 Para efectos del Aviso, así como para todos los efectos legales a que haya lugar, el
 Responsable será Mundi Trade, Inc., con dirección de correo electrónico
 dataprivacy@mundi.io y será el encargado de obtener, usar, acceder, manejar,
@@ -135,7 +139,9 @@ el sistema de Cómputo en la Nube, por lo que el Proveedor de tales servicios es
 obligado a cumplir con los mecanismos de protección y las medidas de seguridad
 destinadas a proteger la información contenida en los Datos Personales, de conformidad
 con la Ley, el Reglamento, el Aviso y demás disposiciones legales aplicables.
-##III. INFORMACIÓN QUE SE RECABARÁ AL SUSCRIBIR EL
+
+## III. INFORMACIÓN QUE SE RECABARÁ AL SUSCRIBIR EL
+
 AVISO.
 
 El Titular proporcionará la presente información al momento de solicitar el Producto o
@@ -198,7 +204,9 @@ El Titular podrá proveer Mundi datos personales relativos a las personas que es
 como relacionados, incluyendo accionistas, avales y representantes legales, entre otros.
 De ser así, el Titular será responsable de la notificación de dicho evento y la obtención del
 consentimiento del Aviso de alos relacionados.
-##IV. DATOS SENSIBLES.
+
+## IV. DATOS SENSIBLES
+
 Se consideran Datos Personales Sensibles aquellos Datos Personales que afecten a la
 esfera más íntima de su Titular, o cuya utilización indebida pueda dar origen a
 discriminación o conlleve un riesgo grave para éste. En particular, se consideran sensibles
@@ -208,7 +216,9 @@ afiliación sindical, opiniones políticas, y preferencia sexual.
 
 En virtud de lo anterior, el Responsable en ningún momento recopilará ni almacenará
 Datos Personales Sensibles.
-##V. FINALIDADES DEL TRATAMIENTO.
+
+## V. FINALIDADES DEL TRATAMIENTO
+
 Los Datos Personales que recopile el Responsable, ya sea de forma personal, de forma
 directa o de forma indirecta, tendrán las siguientes finalidades:
 
@@ -240,7 +250,9 @@ requerimientos legales propios o de terceros con los que Mundi tenga relaciones
 comerciales
 
 Los incisos anteriores son imprescindibles para la prestación del Servicio.
-##VI. TRANSFERENCIAS.
+
+## VI. TRANSFERENCIAS
+
 Mundi podrá transferir datos a otras entidades tales como proveedores de servicio para la
 provisión de productos y servicios, auditores, socios comerciales, terceros con quien se
 celebre contrato de venta de cartera o negocio, entidades de información crediticia,
@@ -260,20 +272,26 @@ Las remisiones de información entre el Responsable y sus Encargados (entidades
 financieras o comerciales con las que el Responsable suscriba acuerdos para el
 ofrecimiento, prestación u otorgamiento de beneficios a sus clientes o para la prestación
 de servicios conjuntos) no requerirá de notificación explícita al Titular.
-##VII. ALCANCE DEL TRATAMIENTO.
+
+## VII. ALCANCE DEL TRATAMIENTO
+
 El Responsable podrá extender el Tratamiento de los Datos Personales a cualquiera de
 los fines previstos en el presente Aviso, a cualquier propósito compatible con los Servicios
 y/o con su objeto social, a los fines necesarios para la operación bajo el esquema de
 Cómputo en la Nube, así como cualquier otro Tratamiento permitido por la Ley, el
 Reglamento y por las demás disposiciones legales aplicables.
-##VIII. LIMITACIÓN AL USO O DIVULGACIÓN DE SUS DATOS
+
+## VIII. LIMITACIÓN AL USO O DIVULGACIÓN DE SUS DATOS
+
 PERSONALES.
 El Titular puede indicar al Responsable que desea limitar o dejar de recibir mensajes
 publicitarios, sean por teléfono fijo o teléfono celular, así como por correo electrónico.
 Asimismo, el Titular podrá limitar la finalidad del Tratamiento. Para ello, el Titular deberá
 enviar una solicitud para deshabilitar los mensajes y/o los correos publicitarios a
 cualquiera de los medios de contacto señalados en la sección de contacto.
-##IX. REVOCACIÓN DEL CONSENTIMIENTO.
+
+## IX. REVOCACIÓN DEL CONSENTIMIENTO
+
 El Titular tiene derecho a revocar el consentimiento que ha otorgado para la realización
 del Tratamiento, ya sea con relación a uno o a todos sus Datos Personales. Para tal
 efecto, el Titular deberá enviar una solicitud con, al menos, los siguientes requisitos:
@@ -297,7 +315,9 @@ indispensables para que el Responsable le entregue un producto y/o le brinde un 
 al Titular o que sea requerido mantener por la legislación vigente o requerimiento de las
 autoridades y supervisores, implicará que el Responsable no estará obligado al
 cumplimiento respectivo, por estar impedido para ello.
-##X. EJERCICIO DERECHOS “ARCO”.
+
+## X. EJERCICIO DERECHOS “ARCO”
+
 Los Derechos “ARCO” son un acrónimo que agrupa cuatro derechos que el Titular puede
 ejercer, en relación con sus Datos Personales:
 &nbsp;&nbsp;a. Acceder a los Datos Personales que están sujetos a Tratamiento; es decir,
@@ -352,7 +372,9 @@ supuestos:
 
 La negativa podrá ser parcial, en cuyo caso el Responsable efectuará el acceso,
 rectificación, cancelación u oposición requerida por el Titular.
-##XI. NOTIFICACIÓN DE CAMBIOS AL AVISO.
+
+## XI. NOTIFICACIÓN DE CAMBIOS AL AVISO
+
 El Responsable podrá hacer modificaciones al presente Aviso de Privacidad, siempre y
 cuando se respeten las disposiciones legales aplicables. Cuando se realicen modificaciones al Aviso de Privacidad, el Responsable pondrá a disposición del Titular la
 información sobre las modificaciones, así como el nuevo Aviso de Privacidad mediante
@@ -369,12 +391,16 @@ actualizada y de cerciorarse de que las notificaciones sean recibidas en un buz�
 revisado constantemente. En caso de no recibir oposiciones o respuesta por parte del
 Titular en un plazo de setenta y dos (72) horas, se entenderá que acepta de conformidad
 con los cambios que pueda sufrir el presente Aviso de Privacidad.
-##XII. USO DE MEDIOS ELECTRÓNICOS O REMOTOS
+
+## XII. USO DE MEDIOS ELECTRÓNICOS O REMOTOS
+
 Respecto al uso de plataformas, sitios y aplicaciones del Responsable, el Titular acepta
 que los medios electrónicos proporcionados por Mundi pueden incluir enlaces a sitios web
 de terceros ajenos al Responsable. En estos casos, Mundi no asume obligación o
 responsabilidad alguna.
-##XIII. CONSERVACIÓN DE DATOS PERSONALES
+
+## XIII. CONSERVACIÓN DE DATOS PERSONALES
+
 Los plazos de conservación de los datos personales no excederán de aquéllos que sean
 necesarios para el cumplimiento de las finalidades que justificaron el tratamiento, y
 deberán atender las disposiciones aplicables a la materia de que se trate, y tomar en
@@ -384,7 +410,9 @@ información.
 Una vez cumplida la o las finalidades del tratamiento, y cuando no exista disposición legal
 o reglamentaria que establezca lo contrario, el Responsable procederá a la cancelación
 de los datos en su posesión previo bloqueo de los mismos, para su posterior supresión.
-##XIV. CONTACTO.
+
+## XIV. CONTACTO
+
 Si usted desea obtener más información, resolver una duda, ejercitar sus Derechos
 “ARCO” y/o aclarar cualquier cuestión sobre el ejercicio de cualquier derecho sobre sus
 Datos Personales, puede comunicarse o acudir directamente a la dirección señalada del
